@@ -1,0 +1,23 @@
+{
+  "version": "2.2.0",
+  "summary": {
+    "title": "Software Security",
+    "owner": "Rutuja Rashinkar",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [
+      {
+        "name": "Sakshi Basapure"
+      },
+      {
+        "name": "nitin dhevar"
+      }
+    ],
+    "diagrams": [],
+    "diagramTop": 2,
+    "reviewer": "Sakshi, Nitin",
+    "threatTop": 0
+  }
+}
